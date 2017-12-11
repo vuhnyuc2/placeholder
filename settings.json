@@ -1,0 +1,33 @@
+{
+  "settings": {
+    "screen_width": 0,
+    "screen_height": 0,
+
+    "world_center_x": 700,
+    "world_center_y": 0,
+    "world_center_z": 0,
+
+    "ground_width": 1400,
+    "ground_height": 50,
+    "ground_depth": 500,
+
+    "city_width": 75,
+    "city_height": 150,
+    "city_depth": 300,
+
+    "base_height": 50,
+    "base_radius": 50,
+
+    "player_missile_speed": 2.3,
+
+    "explosion_radius": 50,
+    "explosion_duration": 5000,
+    "explosion_color": "0xff0000",
+
+    "level_title_duration": 3000,
+    "level_end_text_duration": 500,
+
+    "lose_text": "Game Over",
+    "win_text": "Winner"
+  }
+}
